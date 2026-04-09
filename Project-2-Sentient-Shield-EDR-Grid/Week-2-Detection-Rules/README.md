@@ -42,7 +42,7 @@ After installation, Sysmon began generating detailed security events that could 
 Wazuh was configured to monitor sensitive directories for unauthorized file changes.  
 When modifications occur, the SIEM generates alerts.
 
-![File Integrity Monitoring](wazuh-file-integrity-monitoring.png)
+![File Integrity Monitoring](wazuh-file-intergrity-monitoring.png)
 
 ---
 
