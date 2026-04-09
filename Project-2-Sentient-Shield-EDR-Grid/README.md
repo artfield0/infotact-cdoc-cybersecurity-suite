@@ -33,14 +33,15 @@ The lab simulates a **Security Operations Center (SOC)** environment where endpo
         ┌─────────────────────────────┐
         │        Ubuntu Server        │
         │                             │
-        │  🧠 Wazuh Manager            │
-        │  🗄️ Wazuh Indexer (Logs DB)  │
-        │  📊 Wazuh Dashboard          │
+        │  🧠 Wazuh Manager           │
+        │  🗄️ Wazuh Indexer (Logs DB) │
+        │  📊 Wazuh Dashboard         │
         │                             │
         │  Threat Detection           │
         │  Alert Correlation          │
         │  Security Monitoring        │
         └─────────────────────────────┘
+
 
 ---
 
